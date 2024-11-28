@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = '--project--'
-copyright = '--copyright--'
-author = '--author--'
+project = 'Transactional Machine Learning (TML)'
+copyright = '2024, Otics Advanced Analytics, Incorporated - For Support email support@otics.ca'
+author = 'Sebastian Maurice'
 
-release = '--release--'
-version = '--version--'
+release = '0.1'
+version = '0.1.0'
 
 # -- General configuration
 
